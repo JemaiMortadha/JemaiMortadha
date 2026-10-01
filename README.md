@@ -81,12 +81,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JemaiMortadha&show_icons=true&theme=transparent&hide_border=true&title_color=003366&icon_color=003366&text_color=333333&ring_color=003366" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JemaiMortadha&layout=compact&theme=transparent&hide_border=true&title_color=003366&text_color=333333" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JemaiMortadha&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&ring_color=58a6ff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JemaiMortadha&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=ffffff" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JemaiMortadha&theme=transparent&hide_border=true&ring=003366&fire=003366&currStreakLabel=003366" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JemaiMortadha&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=ffffff&sideNums=ffffff&dates=aaaaaa&currStreakNum=ffffff" width="60%" />
 </p>
 
 ---
