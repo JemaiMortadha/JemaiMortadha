@@ -1,19 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=003366&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mortadha+Jemai;Software+Engineer+%7C+AI+%26+Full-Stack;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mortadha+Jemai;Software+Engineer+%7C+AI+%26+Full-Stack;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Ingénieur Génie Logiciel · Développeur Full-Stack & IA · Tunisie 🇹🇳</b>
+  <b>Software Engineer · Full-Stack & AI Developer · Tunisia 🇹🇳</b>
 </p>
 
 <p align="center">
   <a href="mailto:jemaimortadha@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/VOTRE_PROFIL_LINKEDIN">
+  <a href="https://www.linkedin.com/in/abed-el-mortadha/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=JemaiMortadha&style=for-the-badge&color=003366&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=JemaiMortadha&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 </p>
 
 ---
