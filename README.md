@@ -18,9 +18,15 @@
 
 ---
 
-<img align="left" src="./ascii-art.svg" width="38%" style="margin-right: 24px;" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="41%" align="center" valign="top">
+<img src="./ascii-art.svg" width="100%"/>
+</td>
+<td width="2%" bgcolor="#30363d"></td>
+<td width="57%" valign="middle" style="padding-left: 20px;">
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 🎓 **Software Engineer** — Diplôme National d'Ingénieur, TEK-UP (2023–2026)
 - 🖥️ **Daily driver:** Kali Linux
@@ -31,7 +37,9 @@
 - 🔐 Also a **certified Cybersecurity trainer** at GoMyCode (50+ students trained)
 - 📍 Based in **Ariana, Tunis**
 
-<br clear="both" />
+</td>
+</tr>
+</table>
 
 ---
 
