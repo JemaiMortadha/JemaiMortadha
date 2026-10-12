@@ -13,17 +13,12 @@
   <a href="https://www.linkedin.com/in/abed-el-mortadha/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/dynamic/json?color=58a6ff&label=Profile+Views&query=value&url=https://api.countapi.xyz/hit/JemaiMortadha/visits&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/JemaiMortadha?style=for-the-badge&color=58a6ff&logo=github&logoColor=white&label=Followers" />
 </p>
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr>
-<td width="42%" valign="top" align="center" style="border: none; padding: 0 12px 0 0;">
-<img src="./ascii-art.svg" alt="ASCII Art" width="100%"/>
-</td>
-<td width="58%" valign="middle" style="border: none; padding: 0 0 0 12px;">
+<img align="left" src="./ascii-art.svg" width="38%" style="margin-right: 24px;" />
 
 ## 👨‍💻 About Me
 
@@ -36,9 +31,7 @@
 - 🔐 Also a **certified Cybersecurity trainer** at GoMyCode (50+ students trained)
 - 📍 Based in **Ariana, Tunis**
 
-</td>
-</tr>
-</table>
+<br clear="both" />
 
 ---
 
