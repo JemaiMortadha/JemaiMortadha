@@ -20,10 +20,10 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td width="42%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 <img src="./ascii-art.svg" alt="ASCII Art" width="100%"/>
 </td>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 ## 👨‍💻 About Me
 
