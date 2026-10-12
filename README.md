@@ -23,7 +23,7 @@
 <td width="42%" valign="top" align="center">
 <img src="./ascii-art.svg" alt="ASCII Art" width="100%"/>
 </td>
-<td width="58%" valign="middle">
+<td width="58%" valign="top">
 
 ## 👨‍💻 About Me
 
