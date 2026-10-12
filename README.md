@@ -13,17 +13,17 @@
   <a href="https://www.linkedin.com/in/abed-el-mortadha/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=JemaiMortadha&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJemaiMortadha&count_bg=%2358a6ff&title_bg=%23555555&icon=github&icon_color=%23ffffff&title=Profile+Views&edge_flat=false" />
 </p>
 
 ---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<table width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="42%" valign="top" align="center">
+<td width="42%" valign="top" align="center" style="border: none; padding: 0 12px 0 0;">
 <img src="./ascii-art.svg" alt="ASCII Art" width="100%"/>
 </td>
-<td width="58%" valign="middle">
+<td width="58%" valign="middle" style="border: none; padding: 0 0 0 12px;">
 
 ## 👨‍💻 About Me
 
@@ -75,7 +75,18 @@
 **Tools & Infrastructure**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=kali,docker,git,vscode,vim,postman&perline=6" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" height="30"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="30"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" height="30"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" height="30"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="30"/>
 </p>
 
 ---
