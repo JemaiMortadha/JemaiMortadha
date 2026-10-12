@@ -18,15 +18,14 @@
 
 ---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td width="41%" align="center" valign="top">
-<img src="./ascii-art.svg" width="100%"/>
+<td width="42%" valign="top" align="center">
+<img src="./ascii-art.svg" alt="ASCII Art" width="100%"/>
 </td>
-<td width="2%" bgcolor="#30363d"></td>
-<td width="57%" valign="middle" style="padding-left: 20px;">
+<td width="58%" valign="middle">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 **Software Engineer** — Diplôme National d'Ingénieur, TEK-UP (2023–2026)
 - 🖥️ **Daily driver:** Kali Linux
